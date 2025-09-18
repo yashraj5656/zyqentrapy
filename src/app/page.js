@@ -98,7 +98,7 @@ export default function Dashboard() {
 
 
         <div className="text-center">
-          <p className="pp">Learning Python is like learning to speak to the web — the more you practice, the more it listens.</p>
+          <p className="pp">Python is the language of clarity — write it once, and the computer whispers back in action.</p>
           <p className="">
             <Link href="/signup" className=""><button data-text="Signup/Login">Signup/Login</button></Link>
             {/*{" "}or{" "} 
